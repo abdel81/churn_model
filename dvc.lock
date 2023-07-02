@@ -7,7 +7,7 @@ stages:
       md5: 8929517566f004183dff480fdd48afe0
       size: 391872
     - path: src/data/load_data.py
-      md5: 1de1b5780f0f897223d87024bae9c1fa
+      md5: b5ac281ac1baefc6f4eb6cf2a39d7eb3
       size: 1435
     outs:
     - path: data/raw/train.csv
